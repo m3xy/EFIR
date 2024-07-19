@@ -1,0 +1,4 @@
+enum View {
+  FPS,
+  MAP
+}
